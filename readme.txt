@@ -30,6 +30,7 @@ Go to widget dashboard find `Elegant Category Posts`, add it to any sidebar(Widg
 == Screenshots ==
 
 1. Sample out put when posts don't have featured images, and with default theme
+2. Sample out put of posts from Good deed category on http://ironblogger.cocoate.com
 2. Widget settings
 
 == Reviews ==
