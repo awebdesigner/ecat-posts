@@ -13,7 +13,7 @@ Elegant Category posts
 
 == Description ==
 
-A free Widget with premium features made to help you retrieve and display posts, from a given category or categories without hassle. Developed by: David M. Wampamba a ironblogger, a web designer at http://gagawalagraphics.com a volunteer at http://youinspireyou.com a student of Unleash Dreams. Idea contributor: Hagen Graf a ironblogger. Note and provide the correct category slug from which to pick posts from. It adapts to the website color scheme to keep the feel and look of your blog/websites intact. You may provide a CSS/ID selector if you want to style the display of posts.
+A free Widget with premium features made to help you retrieve and display posts, from a given category or categories without hassle. Developed by: David M. Wampamba an ironblogger, a web designer at http://gagawalagraphics.com a volunteer at http://youinspireyou.com a student of Unleash Dreams. Idea contributor: Hagen Graf, ironblogger project, https://ironblogger.cocoate.com. Note and provide the correct category slug from which to pick posts from. It adapts to the website color scheme to keep the feel and look of your blog/websites intact. You may provide a CSS/ID selector if you want to style the display of posts.
 
 == Installation ==
 
