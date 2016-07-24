@@ -1,4 +1,5 @@
 === Elegant Category Posts ===
+
 Contributors: awebdesigner, Hagen Graf
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=5W633YQWY8Y7S
 Tags: Posts, Category posts, premium features, free plugin
@@ -23,9 +24,10 @@ FTP:
 1. Upload `ecat-posts` folder to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
 
-== Usage ==
+== Upgrade Notice ==
+Free Upgrades
 
-Go to widget dashboard find `Elegant Category Posts`, add it to any sidebar(Widget Areas)
+
 
 == Screenshots ==
 
@@ -36,4 +38,13 @@ Go to widget dashboard find `Elegant Category Posts`, add it to any sidebar(Widg
 == Reviews ==
 http://thekonsulthub.com
 
+==  Frequently Asked Questions ==
+Have any question? https://fictiontoactual.wordpress.com/contact/
 
+== Usage ==
+
+Go to widget dashboard find `Elegant Category Posts`, add it to any sidebar(Widget Areas)
+== Changelog ==
+* Fixed the category slug, now works properly
+* Added sample and setting widget screenshots
+* Added donation link
